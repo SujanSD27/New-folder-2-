@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">XML and JSON Parser</string>
+    <string name="xml_btn_title"> Parser XML</string>
+    <string name="json_btn_title"> Parser JSON</string>
+</resources>

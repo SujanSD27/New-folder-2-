@@ -1,0 +1,19 @@
+[
+  {
+  "name":"Kundapura",
+  "latitude": "13.933718",
+  "longitude": "75.573040",
+  "temperature": "16",
+  "humidity": "84%"
+
+},
+
+{
+    "name":"Shivamogha",
+    "latitude": "13.631596",
+    "longitude": "74.689995",
+    "temperature": "18",
+    "humidity": "79%"
+
+  }
+  ]

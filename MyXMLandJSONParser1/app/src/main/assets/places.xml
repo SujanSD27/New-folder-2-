@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<records>
+    <places>
+        <name>Kundapura</name>
+        <lattitude>13.631596</lattitude>
+        <logitude>74.689995</logitude>
+        <temparature>18</temparature>
+        <humidity>79%</humidity>
+    </places>
+    <places>
+        <name>Shivamogha</name>
+        <lattitude>13.933710</lattitude>
+        <logitude>75.573048</logitude>
+        <temparature>16</temparature>
+        <humidity>84%</humidity>
+    </places>
+
+</records>

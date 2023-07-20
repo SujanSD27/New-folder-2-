@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Registration Application</string>
+    <string name="signup">SIGN UP</string>
+    <string name="login">LOGIN</string>
+    <string name="username">Username:</string>
+    <string name="username_hint">Enter your name</string>
+    <string name="password">Password:</string>
+    <string name="password_hint">Enter password</string>
+    <string name="login_success">LOGIN SUCCESS</string>
+
+
+</resources>

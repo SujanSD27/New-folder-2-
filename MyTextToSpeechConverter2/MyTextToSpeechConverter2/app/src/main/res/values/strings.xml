@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Text To Speech Converter</string>
+    <string name="text_hint">Enter Your Text Here</string>
+    <string name="Convert">CONVERT</string>
+
+
+</resources>

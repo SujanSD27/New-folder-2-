@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name"> My Counter App</string>
+    <string name="text_counter_tile">Counter value</string>
+    <string name="btn_start_title">START</string>
+    <string name="btn_stop_title">STOP</string>
+    <string name="btn_reset_title">RESET</string>
+
+</resources>
